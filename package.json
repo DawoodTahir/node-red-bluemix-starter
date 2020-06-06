@@ -10,6 +10,8 @@
         "express": "4.x",
         "http-shutdown": "1.2.1",
         "node-red": "1.x",
+        "node-red-contrib-play-audio": "0.x",
+        
         "node-red-node-cf-cloudant": "0.x",
         "node-red-node-openwhisk": "0.x",
         "node-red-node-watson": "0.x",
